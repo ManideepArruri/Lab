@@ -14,7 +14,7 @@ async function example() {
     //await driver.quit();
   }
 }
-example;
+example();
 
 
 //Make sure you have installed the necessary dependencies for Selenium WebDriver in your project using npm or yarn. You can run this script using Node.js.
